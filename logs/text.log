@@ -1,0 +1,56 @@
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.entity.ShapeWarehouse- Warehouse was created
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Repository was created
+2020-08-30 00:57:46 [main] WARN  by.artempvn.task01.reader.DataReader- Can't read file null. Try to use default path
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.reader.DataReader- Number of read strings = 14
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.factory.ShapeFactory- Tetrahedron was created, id = 1
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was added, id = 1
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.entity.Tetrahedron- Warehouse was updated, id = 1
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.factory.ShapeFactory- Tetrahedron was created, id = 2
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was added, id = 2
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.entity.Tetrahedron- Warehouse was updated, id = 2
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.factory.ShapeFactory- Tetrahedron was created, id = 3
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was added, id = 3
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.entity.Tetrahedron- Warehouse was updated, id = 3
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.factory.ShapeFactory- Tetrahedron was created, id = 4
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was added, id = 4
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.entity.Tetrahedron- Warehouse was updated, id = 4
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.factory.ShapeFactory- Tetrahedron was created, id = 5
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was added, id = 5
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.entity.Tetrahedron- Warehouse was updated, id = 5
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.factory.ShapeFactory- Tetrahedron was created, id = 6
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was added, id = 6
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.entity.Tetrahedron- Warehouse was updated, id = 6
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.factory.ShapeFactory- Tetrahedron was created, id = 7
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was added, id = 7
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.entity.Tetrahedron- Warehouse was updated, id = 7
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.factory.ShapeFactory- Tetrahedron was created, id = 8
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was added, id = 8
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.entity.Tetrahedron- Warehouse was updated, id = 8
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.factory.ShapeFactory- Tetrahedron was created, id = 9
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was added, id = 9
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.entity.Tetrahedron- Warehouse was updated, id = 9
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.factory.ShapeFactory- Tetrahedron was created, id = 10
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was added, id = 10
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.entity.Tetrahedron- Warehouse was updated, id = 10
+2020-08-30 00:57:46 [main] WARN  by.artempvn.task01.creator.TetrahedronCreator- Can't create shape
+2020-08-30 00:57:46 [main] WARN  by.artempvn.task01.creator.TetrahedronCreator- Can't create shape
+2020-08-30 00:57:46 [main] WARN  by.artempvn.task01.creator.TetrahedronCreator- Can't create shape
+2020-08-30 00:57:46 [main] WARN  by.artempvn.task01.creator.TetrahedronCreator- Can't create shape
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was removed, id = 1
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was removed, id = 2
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was removed, id = 3
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was removed, id = 4
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was removed, id = 5
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was removed, id = 6
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was removed, id = 7
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was removed, id = 8
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Tetrahedron was removed, id = 9
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Warehouse was updated: id = 1 was removed
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Warehouse was updated: id = 2 was removed
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Warehouse was updated: id = 3 was removed
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Warehouse was updated: id = 4 was removed
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Warehouse was updated: id = 5 was removed
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Warehouse was updated: id = 6 was removed
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Warehouse was updated: id = 7 was removed
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Warehouse was updated: id = 8 was removed
+2020-08-30 00:57:46 [main] INFO  by.artempvn.task01.repository.TetrahedronRepository- Warehouse was updated: id = 9 was removed
